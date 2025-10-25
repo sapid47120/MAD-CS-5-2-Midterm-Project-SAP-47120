@@ -1,5 +1,3 @@
-Perfect 👍 — here’s your **final, polished GitHub project description**, updated with **Sir Waqar Arshad** as the instructor and formatted cleanly for GitHub (you can paste this directly into your repository’s `README.md` file):
-
 ---
 
 ## 🛍️ **Samaan Bazaar — Flutter Shopping App**
